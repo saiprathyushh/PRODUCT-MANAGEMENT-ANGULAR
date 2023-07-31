@@ -1,0 +1,22 @@
+[
+    {
+        "productId":2,
+        "productName":"Garden Cart",
+        "productCode":"GDN-0023",
+        "releaseDate":"March 18,2021",
+        "description":"15 gallon capacity rolling",
+        "price":32.99,
+        "starRating":3,
+        "imageUrl":"assets/img1.png"
+      },
+      {
+        "productId":3,
+        "productName":"yoga Cart",
+        "productCode":"ESD-0023",
+        "releaseDate":"March 18,2021",
+        "description":"15 gallon capacity rolling",
+        "price":2.99,
+        "starRating":4.2,
+        "imageUrl":"assets/img2.png"
+      }
+]
